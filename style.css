@@ -2,10 +2,10 @@
 img{
     width:180px;
     height: 120px;
-    padding: 20px;
+    padding: 60px;
 }
 .box{
-   width: 50%;
+   width: 70%;
    height: 500%px;
    margin: 100px auto;
    border: 5px solid teal;
